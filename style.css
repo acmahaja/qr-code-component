@@ -76,7 +76,8 @@ h1, p {
     margin: 0px;
     padding: 0px;
     width: 256px;
-    color: var(--grey);
+    color: var(--greyish-blue);
+    font-weight: 400;
 }
 
 
@@ -84,6 +85,7 @@ h1 {
     font-size: 1.4666666667rem;
     width: 100%;
     color: var(--dark-blue);
+    font-weight: 700;
 }
 
 #attribution {
